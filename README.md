@@ -1,6 +1,3 @@
-##Shiro Hai
+##Salesportal
 
-A bare bones web application using Apache Shiro and Spring.
-
-
-http://viralpatel.net/blogs/tutorial-create-custom-tag-library-taglib-in-jsp/
+The Sales Portal is a Web Conversation, Community Building, New Account Sales, and Customer Relationship Management system.
